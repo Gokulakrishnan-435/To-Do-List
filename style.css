@@ -1,0 +1,130 @@
+@import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:linear-gradient(#00d0ffb4,#928dab);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.whole{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.item{
+    display: flex;
+    
+}
+.hi h1 {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(2, 39, 39);
+}
+
+
+.input{
+    width: 500px;
+    height: 40px;
+    border-radius: 30px;
+    font-size: 30px;
+    text-align: center;
+    background: honeydew;
+   
+    
+}
+.input input{
+   
+    color: black;
+}
+.inputDiv{
+    display: flex;
+}
+.inputDiv button{
+    width: 110px;
+    height: 40px;
+    border-radius: 30px;
+    display: flex;
+    color:white;
+    align-items: center;
+    justify-content: center;
+    background:rgb(2, 51, 51);
+    
+}
+
+
+.inputDiv button:hover{
+    cursor: pointer;
+}
+.item_input{
+    width: 500px;
+    height: 40px;
+    border-radius: 30px;
+    font-size: 30px;
+    text-align: center;
+    background: honeydew;
+    color: black;
+}
+.add{
+    color: black;
+    font-size: large;
+}
+.remove{
+    width: 110px;
+    height: 40px;
+    border-radius: 30px;
+    display: flex;
+    color:white;
+    align-items: center;
+    justify-content: center;
+    background:rgb(2, 51, 51);
+}
+.edit{
+    width: 110px;
+    height: 40px;
+    border-radius: 30px;
+    display: flex;
+    color:white;
+    align-items: center;
+    justify-content: center;
+    background:rgb(2, 51, 51);
+}
+.update{
+    width: 110px;
+    height: 40px;
+    border-radius: 30px;
+    display: flex;
+    color:white;
+    align-items: center;
+    justify-content: center;
+    background:rgb(2, 51, 51);
+}
+.button_cont{
+    width: 110px;
+    height: 40px;
+    border-radius: 30px;
+    display: flex;
+    color:white;
+    align-items: center;
+    justify-content: center;
+    background:rgb(2, 51, 51);
+   
+}
+.button_cont:hover{
+    cursor: pointer;
+}
+.lower{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lower1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
